@@ -1,0 +1,11 @@
+{
+    "license": "MPL 2.0",
+    "author": "Luca Greco <luca.greco@alcacoop.it>",
+    "description": "RDP Connect DebuggerServer to a tcp server",
+    "version": "0.1",
+    "fullName": "RDPConnectTo",
+    "id": "jid1-BXp3gGA469Kspw",
+    "name": "rdp-connect-to",
+    "preferences": [],
+    "dependencies": ["gcli"]
+}
