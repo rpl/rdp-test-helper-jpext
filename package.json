@@ -1,11 +1,11 @@
 {
     "license": "MPL 2.0",
     "author": "Luca Greco <luca.greco@alcacoop.it>",
-    "description": "RDP Connect DebuggerServer to a tcp server",
+    "description": "RDP TestHelper - helps Automated RemoteDebuggerProtocol Testing",
     "version": "0.1",
-    "fullName": "RDPConnectTo",
+    "fullName": "RDPTestHelper",
     "id": "jid1-BXp3gGA469Kspw",
-    "name": "rdp-connect-to",
+    "name": "rdp-test-helper",
     "preferences": [],
     "dependencies": ["gcli"]
 }
